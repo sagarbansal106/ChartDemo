@@ -1,0 +1,22 @@
+{
+"sales":[
+	{
+	"Customer" : "ABC",
+	"Sales":10
+	},
+	{
+	"Customer" : "asd",
+	"Sales":20
+	},{
+	"Customer" : "erewr",
+	"Sales":30
+	},
+	{
+	"Customer" : "ertert",
+	"Sales":0
+	},
+	{
+	"Customer" : "rrrt",
+	"Sales":5
+	}
+]}
